@@ -1,2 +1,2 @@
 # MobApps9
-University lab (Mobile Development)
+University lab (Mobile apps)
